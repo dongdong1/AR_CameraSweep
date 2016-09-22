@@ -1,0 +1,158 @@
+fileFormatVersion: 2
+guid: fd23f31211a4b034686791cad2b6ee1c
+timeCreated: 1468536259
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: bulba_uv_MeshPart0
+    100004: bulba_uv_MeshPart1
+    100006: bulba_uv_MeshPart10
+    100008: bulba_uv_MeshPart11
+    100010: bulba_uv_MeshPart12
+    100012: bulba_uv_MeshPart13
+    100014: bulba_uv_MeshPart14
+    100016: bulba_uv_MeshPart15
+    100018: bulba_uv_MeshPart16
+    100020: bulba_uv_MeshPart2
+    100022: bulba_uv_MeshPart3
+    100024: bulba_uv_MeshPart4
+    100026: bulba_uv_MeshPart5
+    100028: bulba_uv_MeshPart6
+    100030: bulba_uv_MeshPart7
+    100032: bulba_uv_MeshPart8
+    100034: bulba_uv_MeshPart9
+    400000: //RootNode
+    400002: bulba_uv_MeshPart0
+    400004: bulba_uv_MeshPart1
+    400006: bulba_uv_MeshPart10
+    400008: bulba_uv_MeshPart11
+    400010: bulba_uv_MeshPart12
+    400012: bulba_uv_MeshPart13
+    400014: bulba_uv_MeshPart14
+    400016: bulba_uv_MeshPart15
+    400018: bulba_uv_MeshPart16
+    400020: bulba_uv_MeshPart2
+    400022: bulba_uv_MeshPart3
+    400024: bulba_uv_MeshPart4
+    400026: bulba_uv_MeshPart5
+    400028: bulba_uv_MeshPart6
+    400030: bulba_uv_MeshPart7
+    400032: bulba_uv_MeshPart8
+    400034: bulba_uv_MeshPart9
+    2300000: bulba_uv_MeshPart0
+    2300002: bulba_uv_MeshPart1
+    2300004: bulba_uv_MeshPart10
+    2300006: bulba_uv_MeshPart11
+    2300008: bulba_uv_MeshPart12
+    2300010: bulba_uv_MeshPart13
+    2300012: bulba_uv_MeshPart14
+    2300014: bulba_uv_MeshPart15
+    2300016: bulba_uv_MeshPart16
+    2300018: bulba_uv_MeshPart2
+    2300020: bulba_uv_MeshPart3
+    2300022: bulba_uv_MeshPart4
+    2300024: bulba_uv_MeshPart5
+    2300026: bulba_uv_MeshPart6
+    2300028: bulba_uv_MeshPart7
+    2300030: bulba_uv_MeshPart8
+    2300032: bulba_uv_MeshPart9
+    3300000: bulba_uv_MeshPart0
+    3300002: bulba_uv_MeshPart1
+    3300004: bulba_uv_MeshPart10
+    3300006: bulba_uv_MeshPart11
+    3300008: bulba_uv_MeshPart12
+    3300010: bulba_uv_MeshPart13
+    3300012: bulba_uv_MeshPart14
+    3300014: bulba_uv_MeshPart15
+    3300016: bulba_uv_MeshPart16
+    3300018: bulba_uv_MeshPart2
+    3300020: bulba_uv_MeshPart3
+    3300022: bulba_uv_MeshPart4
+    3300024: bulba_uv_MeshPart5
+    3300026: bulba_uv_MeshPart6
+    3300028: bulba_uv_MeshPart7
+    3300030: bulba_uv_MeshPart8
+    3300032: bulba_uv_MeshPart9
+    4300000: bulba_uv_MeshPart0
+    4300002: bulba_uv_MeshPart1
+    4300004: bulba_uv_MeshPart2
+    4300006: bulba_uv_MeshPart3
+    4300008: bulba_uv_MeshPart4
+    4300010: bulba_uv_MeshPart5
+    4300012: bulba_uv_MeshPart6
+    4300014: bulba_uv_MeshPart7
+    4300016: bulba_uv_MeshPart8
+    4300018: bulba_uv_MeshPart9
+    4300020: bulba_uv_MeshPart10
+    4300022: bulba_uv_MeshPart11
+    4300024: bulba_uv_MeshPart12
+    4300026: bulba_uv_MeshPart13
+    4300028: bulba_uv_MeshPart14
+    4300030: bulba_uv_MeshPart15
+    4300032: bulba_uv_MeshPart16
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 2
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

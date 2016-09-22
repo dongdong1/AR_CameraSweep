@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="cube" size="0.400000 0.434043" />
+    <ImageTarget name="UofT" size="0.400000 0.299824" />
+    <ImageTarget name="MADLab" size="0.400000 0.400000" />
+    <ImageTarget name="library" size="0.400000 0.370453" />
+    <ImageTarget name="main" size="0.400000 0.340479" />
+  </Tracking>
+</QCARConfig>
